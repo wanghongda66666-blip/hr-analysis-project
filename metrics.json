@@ -1,0 +1,54 @@
+{
+  "total_employees": 1470,
+  "attrition_count": 233,
+  "attrition_rate": 15.9,
+  "avg_age": 39.1,
+  "avg_income": 10205,
+  "avg_tenure": 7.3,
+  "avg_satisfaction": 2.5,
+  "avg_worklife": 2.5,
+  "model_accuracy": 91.8,
+  "model_auc": 0.981,
+  "top_features": [
+    {
+      "feature": "OverTime",
+      "importance": 0.2845646404418801
+    },
+    {
+      "feature": "JobSatisfaction",
+      "importance": 0.13294457245326124
+    },
+    {
+      "feature": "WorkLifeBalance",
+      "importance": 0.06874515161987257
+    },
+    {
+      "feature": "YearsAtCompany",
+      "importance": 0.06329041156149665
+    },
+    {
+      "feature": "YearsWithCurrManager",
+      "importance": 0.05111880016172015
+    },
+    {
+      "feature": "YearsInCurrentRole",
+      "importance": 0.04769868297445832
+    },
+    {
+      "feature": "Age",
+      "importance": 0.04129425977221431
+    },
+    {
+      "feature": "TotalWorkingYears",
+      "importance": 0.036469145215493964
+    },
+    {
+      "feature": "MonthlyIncome",
+      "importance": 0.03421616171399513
+    },
+    {
+      "feature": "DailyRate",
+      "importance": 0.029269118945312762
+    }
+  ]
+}
