@@ -1,0 +1,6 @@
+Age,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+35,Travel_Rarely,1023,Sales,8,4,Marketing,3,Male,68,3,2,Sales Executive,2,Single,9153,23147,1,Yes,13,3,3,0,12,2,2,5,3,2,2
+28,Travel_Frequently,621,Research & Development,15,3,Life Sciences,2,Female,44,2,1,Research Scientist,3,Married,4629,19583,3,No,18,3,2,1,6,3,3,2,2,0,1
+42,Non-Travel,1278,Research & Development,2,4,Medical,4,Male,87,4,4,Manager,4,Married,15973,31847,0,No,22,4,4,2,20,4,4,15,7,3,10
+53,Travel_Rarely,893,Sales,5,3,Marketing,2,Female,56,2,3,Sales Executive,3,Divorced,12731,27490,2,No,16,3,3,1,28,3,3,22,10,5,18
+23,Travel_Frequently,474,Research & Development,22,2,Technical Degree,1,Male,31,1,1,Laboratory Technician,1,Single,3196,13672,0,Yes,13,3,1,0,1,1,1,1,0,0,0
